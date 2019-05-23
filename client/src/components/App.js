@@ -7,6 +7,10 @@ import StreamList from "./streams/StreamList";
 import StreamShow from "./streams/StreamShow";
 import Header from "./Header";
 
+/**
+ * @author Filip.Kusztelak
+ */
+
 const App = () => {
   return (
     <div className="ui container">

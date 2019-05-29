@@ -7,19 +7,13 @@
     },
     {
       "title": "Other stream",
-      "description": "here is some stream",
+      "description": "Here is some other stream",
       "id": 2
     },
     {
-      "title": "New Stream",
-      "description": "Some new edit",
-      "userId": "110370586455039307264",
+      "title": "Another sample stream",
+      "description": "Some ordinary stream",
       "id": 3
-    },
-    {
-      "title": "Me streaming component reuse",
-      "description": "Edited",
-      "id": 4
     }
   ]
 }

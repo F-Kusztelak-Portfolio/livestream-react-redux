@@ -1,6 +1,6 @@
 ## Livestream App
 
-This application allows user to create, delete, edit and do live streaming by using OBS or similar software.
+This application allows user to create, delete, edit and live stream by using OBS or similar software.
 
 User must be logged in to administer streams.
 
@@ -48,9 +48,11 @@ npm install
 ```
 npm start
 ```
-### OBS configuration
+### OBS installation
 
 * [OBS](https://obsproject.com/) - Open Broadcaster Software
+
+### OBS configuration
 
 >Settings -> Stream
 
